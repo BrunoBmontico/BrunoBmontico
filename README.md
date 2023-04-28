@@ -1,6 +1,5 @@
 
 ## Olá! Me chamo Bruno Bonassi Montico.
-### Estou cursando técnico em Análise e Desenvolvimento de Sistemas pelo Senai Morvan Figueiredo!
 
 ## 📱Meus contatos:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bonassi-montico-3509b6266/)
@@ -17,6 +16,10 @@
 ## 📃certificados:
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/5c84daa0-61de-4d2d-ba5c-b37556bbc708)
 
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBmontico&show_icons=true&theme=cobalt)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBmontico&show_icons=true&theme=radical)
+## 🧍Sobre mim:
+Estou cursando técnico em Análise e Desenvolvimento de Sistemas pelo Senai Morvan Figueiredo, amo tecnologia e desafios, buscando aprender sempre!
+
+#
 
