@@ -17,6 +17,7 @@ Estou cursando técnico em Análise e Desenvolvimento de Sistemas pelo Senai Mor
 
 ## 📃certificados:
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/5c84daa0-61de-4d2d-ba5c-b37556bbc708)
+[![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/362c3057-ed68-4c61-9f3b-ee84f97474e6/whatsapp)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBmontico&show_icons=true&theme=cobalt)
 
