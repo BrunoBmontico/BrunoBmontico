@@ -1,6 +1,6 @@
 
 ## 🧍Olá! Me chamo Bruno Bonassi Montico.
-Estou cursando técnico em Análise e Desenvolvimento de Sistemas pelo Senai Morvan Figueiredo, amo tecnologia e desafios, buscando aprender sempre!
+Sou estudante do primeiro semestre de ADS (Análise e Desenvolvimento de Sistemas) e tenho formação técnica em ADS pelo SENAI, amo tecnologia e desafios, buscando aprender sempre!
 
 ## 📱Meus contatos:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bonassi-montico-3509b6266/)
