@@ -1,7 +1,6 @@
 ## 🧍 Olá! Me chamo Bruno Bonassi Montico.
 
-Desenvolvedor Back-End com experiência em Python, Django e Odoo ERP. Foco em desenvolvimento de APIs REST, arquitetura de software e boas práticas. Experiência prática em manutenção e evolução de sistemas web, buscando aprofundar habilidades em arquitetura de software escalável.
-
+Desenvolvedor Back-End Júnior com experiência em Python, Django e Odoo ERP. Busco integrar um time de engenharia onde eu possa colaborar na construção e manutenção de APIs robustas, aplicando padrões como Clean Code e testes, evoluindo minha capacidade de modelar dados em sistemas de alta complexidade, como ERPs.
 
 ## 📱 Contatos
 
