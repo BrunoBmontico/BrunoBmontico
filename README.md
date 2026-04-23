@@ -19,6 +19,5 @@ Desenvolvedor Back-End Júnior com experiência em Python, Django e Odoo ERP. Bu
 
 ## 📃 Certificados
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/5c84daa0-61de-4d2d-ba5c-b37556bbc708)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/362c3057-ed68-4c61-9f3b-ee84f97474e6/whatsapp)
 
