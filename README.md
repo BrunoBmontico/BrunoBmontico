@@ -1,6 +1,6 @@
 ## **Back-end developer · Python & Odoo ERP**
 
-Desenvolvedor com foco em sistemas de alta complexidade, ERPs, APIs REST e módulos Odoo.
+Desenvolvedor com foco em sistemas de alta complexidade, ERPs, módulos Odoo e APIs.
 Trabalho com Python e Odoo no dia a dia, construindo e refatorando módulos para órgãos públicos.
 Gosto de código limpo, testes que significam algo e de entender o domínio do problema antes de escrever a primeira linha.
 
