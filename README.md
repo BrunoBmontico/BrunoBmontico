@@ -1,5 +1,4 @@
-## Bruno Bonassi Montico
-**Back-end developer · Python & Odoo ERP**
+## **Back-end developer · Python & Odoo ERP**
 
 Desenvolvedor com foco em sistemas de alta complexidade, ERPs, APIs REST e módulos Odoo.
 Trabalho com Python e Odoo no dia a dia, construindo e refatorando módulos para órgãos públicos.
