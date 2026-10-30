@@ -31,11 +31,11 @@ Explorando sistemas de mais baixo nível: estou construindo um chat server em C 
 
 ### Certificado
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner_Foundational-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/362c3057-ed68-4c61-9f3b-ee84f97474e6)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bonassi-montico-3509b6266/)
-[![Gmail](https://img.shields.io/badge/brunobonassim@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brunobonassim@gmail.com)
+![Gmail](https://img.shields.io/badge/brunobonassim@gmail.com?style=flat-square&logo=gmail&logoColor=white)
